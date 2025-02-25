@@ -133,7 +133,7 @@ Use your NASA guest account to [login to the OSDR Workspace](https://osdr.nasa.g
 After logging in to Workspace, create relevant folders for your data files. It is helpful to create a top-level folder for each organism/tissue or organism (for plant studies) then a child folder for each assay type, followed by grandchild folders for raw and processed data files. Once you've created your folder hierarchy, upload your files to the respective directories as shown below:
 
 > *Notes:*  
-> - *The default workspace quota is 30GB. If more space is needed, please contact OSDR at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).*  
+> - *The default workspace quota is 100GB. If more space is needed, please contact OSDR at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).*  
 > - *Accepted file format types can be found on the [OSDR FAQ page](https://www.nasa.gov/reference/osdr-faq-frequently-asked-questions/#hds-sidebar-nav-5). If your file type is not one of our currently accepted formats, please contact OSDR at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).*  
 > - *The following special characters are not allowed in folder or file names, and spaces are discouraged: & $ @ = ; : + , ? \ { { ^ ~ % ` [ ] " ' < > # =*
 
