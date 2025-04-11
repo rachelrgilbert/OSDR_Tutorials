@@ -30,6 +30,14 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: GitHub Repos
+
+   OSDR Curation <https://github.com/nasa/OSDR_Data_Curation>
+   GeneLab Sample Processing <https://github.com/nasa/GeneLab-sampleProcessing>
+   GeneLab Data Processing <https://github.com/nasa/GeneLab_Data_Processing>
+
+.. toctree::
+   :maxdepth: 1
    :caption: Reference
 
    pages/reference/osdr_abbreviations
