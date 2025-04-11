@@ -299,6 +299,9 @@ Sample Abbreviations
    TES
       Testis or Testes
 
+   TIB
+      Tibia
+
    TMS
       Thymus
 
