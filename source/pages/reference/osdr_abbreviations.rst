@@ -215,6 +215,9 @@ Sample Abbreviations
    Cb
       Cerebellum
 
+   CEC
+      Cecum
+
    CLN
       Colon
 
