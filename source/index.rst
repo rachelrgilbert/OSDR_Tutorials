@@ -2,10 +2,12 @@
 |project_name|
 ================
 
+Welcome to the :term:`OSDR` Tutorials documentation. This guide will help you navigate and use the Open Science Data Repository (OSDR) effectively.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: How-To Guides
+   :hidden:
 
    pages/guides/access_osdr_data
    pages/guides/navigate_an_osdr_study_page
@@ -37,7 +39,8 @@
    GeneLab Data Processing <https://github.com/nasa/GeneLab_Data_Processing>
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Reference
+   :hidden:
 
    pages/reference/osdr_abbreviations
