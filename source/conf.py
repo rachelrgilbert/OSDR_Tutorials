@@ -19,7 +19,6 @@ extensions = [
     'sphinx_copybutton',
     'sphinx_design',
     'hoverxref.extension',
-    'sphinx_rtd_theme'
 ]
 
 autosectionlabel_prefix_document = True 
@@ -41,9 +40,12 @@ html_title = project
 html_logo = "_static/images/OSDR_logos.png"
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'display_version': False,
     'style_nav_header_background': "#105bd8",
-    'sticky_navigation': True
+    'sticky_navigation': True,
+    'collapse_navigation': False,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
 }
 html_static_path = ['_static']
 html_css_files = ['css/custom.css']
@@ -56,21 +58,19 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 
-# To do: Implement glossary term hover 
-# Hover configuration
-hoverxref_auto_ref = True
-hoverxref_api_host = 'https://readthedocs.org'
-hoverxref_roles = ['term', 'ref']
-hoverxref_role_types = {
-    'term': 'tooltip',
-    'ref': 'tooltip',
-}
-
-
 html_context = {
     "display_github": True,
     "github_user": "nasa",
     "github_repo": "OSDR_Tutorials",
     "github_version": "main",
     "conf_py_path": "/source/"
+}
+
+# Hoverxref configuration
+hoverxref_auto_ref = True  # Auto-enable on all :ref: roles
+hoverxref_api_host = 'https://readthedocs.org'
+hoverxref_roles = ['term', 'ref']  # Enable hover tooltips on glossary terms and refs
+hoverxref_role_types = {
+    'term': 'tooltip',  # Use tooltip style for glossary terms
+    'ref': 'tooltip',   # Use tooltip style for ref links
 }
