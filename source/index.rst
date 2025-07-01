@@ -41,6 +41,5 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
 .. toctree::
    :maxdepth: 2
    :caption: Reference
-   :hidden:
 
    pages/reference/osdr_abbreviations

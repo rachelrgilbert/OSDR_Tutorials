@@ -68,7 +68,9 @@ html_context = {
 
 # Hoverxref configuration
 hoverxref_auto_ref = True  # Auto-enable on all :ref: roles
-hoverxref_roles = ['term']  # Enable hover tooltips on glossary terms
+hoverxref_api_host = 'https://readthedocs.org'
+hoverxref_roles = ['term', 'ref']  # Enable hover tooltips on glossary terms and refs
 hoverxref_role_types = {
     'term': 'tooltip',  # Use tooltip style for glossary terms
+    'ref': 'tooltip',   # Use tooltip style for ref links
 }
