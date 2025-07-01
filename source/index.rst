@@ -2,7 +2,7 @@
 |project_name|
 ================
 
-Welcome to the :term:`OSDR` Tutorials documentation. This guide will help you navigate and use the Open Science Data Repository (OSDR) effectively.
+Welcome to the OSDR Tutorials documentation. This guide will help you navigate and use the Open Science Data Repository (OSDR) effectively.
 
 .. toctree::
    :maxdepth: 2
