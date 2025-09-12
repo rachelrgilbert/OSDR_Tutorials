@@ -19,6 +19,7 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
    pages/guides/data_visualization_portal
    pages/guides/environmental_data_application
    pages/guides/radlab_portal
+   pages/guides/report_issues
 
 .. toctree::
    :maxdepth: 1
