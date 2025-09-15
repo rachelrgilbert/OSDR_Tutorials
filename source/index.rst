@@ -5,7 +5,7 @@
 Welcome to the OSDR Tutorials documentation. This guide will help you navigate and use the Open Science Data Repository (OSDR) effectively.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: How-To Guides
 
    pages/guides/access_osdr_data
