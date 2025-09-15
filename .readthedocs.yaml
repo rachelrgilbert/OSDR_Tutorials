@@ -12,6 +12,8 @@ build:
     python: "3.11"
   jobs:
     post_checkout:
+      - apt-get update
+      - apt-get install -y python3-pip
       - python3 -m pip install --upgrade pip setuptools
 
 # Build documentation in the "source/" directory with Sphinx
