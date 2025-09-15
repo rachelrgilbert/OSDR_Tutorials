@@ -7,7 +7,6 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
 .. toctree::
    :maxdepth: 2
    :caption: How-To Guides
-   :hidden:
 
    pages/guides/access_osdr_data
    pages/guides/navigate_an_osdr_study_page
