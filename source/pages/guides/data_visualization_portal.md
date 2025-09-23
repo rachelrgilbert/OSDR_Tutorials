@@ -268,7 +268,7 @@ Within the plot, users have the ability to change the % difference color thresho
 :width: 800px
 ```
 
-Clicking each of the drop down menus will allow users to change the samples displayed. By default, the pair of samples with the highest correlation coefficient are shown.
+Clicking each of the drop down menus will allow users to change the samples displayed. By default, the pair of samples with the smallest correlation coefficient are shown.
 
 ```{image} ../../_static/images/data_viz/Pair_Plot_OSD-321_sample-display.png
 :alt: Pair plot sample selection
