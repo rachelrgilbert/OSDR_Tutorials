@@ -15,6 +15,7 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
    pages/guides/create_a_nasa_guest_account
    pages/guides/use_the_osdr_workspace
    pages/guides/submit_data_to_osdr
+   pages/guides/biological_data_api
    pages/guides/data_visualization_portal
    pages/guides/environmental_data_application
    pages/guides/radlab_portal
