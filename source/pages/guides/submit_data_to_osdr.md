@@ -12,7 +12,7 @@ If you have a NASA-funded study, and you have not yet filled out a **Research Da
 
 - *OSDR recommends organizing studies by organism and tissue type with the exception of plant studies, which are organized only by organism. **If your submission contains data from more than one tissue type, a new study should be created for each tissue.** Failure to do so could lead to delays in curation, as well as an incomplete list of DOIs to include in your manuscript.*
 
-- *For file names, please use common acronyms as defined on the {ref}`osdr_abbreviations` page, whenever possible. If your data has acronyms, scientific terms, or column names that need to be defined, please include a data dictionary with your study. An example data dictionary can be found in dataset [OSD-618](https://osdr.nasa.gov/bio/repo/data/studies/OSD-618) (Files > Novel Object Recognition > Data Dictionary Files).*
+- *For file names, please use common acronyms as defined on the [Open Science Abbreviations](https://osdr-tutorials.readthedocs.io/en/latest/pages/reference/osdr_abbreviations.html#osdr-abbreviations) page, whenever possible. If your data has acronyms, scientific terms, or column names that need to be defined, please include a data dictionary with your study. An example data dictionary can be found in dataset [OSD-618](https://osdr.nasa.gov/bio/repo/data/studies/OSD-618) (Files > Novel Object Recognition > Data Dictionary Files).*
 
 ## Data Submission Tutorial
 
@@ -111,20 +111,18 @@ This will be used in step 21 to populate your assay-level information in BDME.
 
 **6.4. Repeat steps 6.1 - 6.3 for each omics assay associated with your study**
 
-### Create a NASA Guest Account and Upload Files to Workspace
+### Create a Login.gov Account and Upload Files to Workspace
 
-**7. Create a NASA guest account.**
+**7. Create a Login.gov account.**
 
-If you do not already have a NASA guest account, follow the instructions on the {doc}`create_a_nasa_guest_account` page to create one. The NASA Guest Accounts are not managed by the OSDR team. Any issues must be reported to the NASA Enterprise Service Desk (ESD). NASA ESD can be reached 24/7 at 1-877-677-2123.
-
-*Note: NASA guest account password is good for 60 days. If you do not change your password before the end of the 60 days, you will need to reach out to NASA ESD to reset your password.*
+If you do not already have a Login.gov account, follow the instructions on the [Create a Login.gov account](https://osdr-tutorials.readthedocs.io/en/latest/pages/guides/create_a_nasa_guest_account.html) page to create one. Please note the Login.gov accounts are not managed by the OSDR team. **Account issues can be addressed by submitting a help ticket at https://login.gov/contact/.** Login.gov can be reached 24/7 at (844) 875-6446.
 
 **8. Log in to Workspace**
 
-Use your NASA guest account to [login to the OSDR Workspace](https://osdr.nasa.gov/bio/workspace-sso-login.html). If you are new to the Workspace, review the {doc}`use_the_osdr_workspace` tutorial.
+Use your Login.gov account to [login to the OSDR Workspace](https://osdr.nasa.gov/bio/submission/). If you are new to the Workspace, review the [Use the OSDR Workspace](https://osdr-tutorials.readthedocs.io/en/latest/pages/guides/use_the_osdr_workspace.html) tutorial.
 
-```{image} ../../_static/images/bdme/BDME_workspace_login.png
-:alt: OSDR Workspace login
+```{image} ../../_static/images/nasa_guest_acct/6_OSDR_login.png
+:alt: OSDR BDME login page
 :width: 800px
 ```
 
@@ -134,7 +132,7 @@ After logging in to Workspace, create relevant folders for your data files. It i
 
 > *Notes:*  
 > - *The default workspace quota is 100GB. If more space is needed, please contact OSDR at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).*  
-> - *Accepted file format types can be found on the [OSDR FAQ page](https://www.nasa.gov/reference/osdr-faq-frequently-asked-questions/#hds-sidebar-nav-5). If your file type is not one of our currently accepted formats, please contact OSDR at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).*  
+> - *Accepted file format types can be found on the [OSDR FAQ page](https://science.nasa.gov/reference/osdr-faq/). If your file type is not one of our currently accepted formats, please contact OSDR at [arc-dl-osdr-data@mail.nasa.gov](mailto:arc-dl-osdr-data@mail.nasa.gov).*  
 > - *The following special characters are not allowed in folder or file names, and spaces are discouraged: & $ @ = ; : + , ? \ { { ^ ~ % ` [ ] " ' < > # =*
 
 ```{image} ../../_static/images/bdme/BDME_workspace_dirs.png
@@ -148,7 +146,7 @@ You now have everything you need to create a new study in BDME, then input your 
 
 **10. Log in to BDME.**
 
-Use your NASA guest account to [login to BDME](https://osdr.nasa.gov/bio/submission-sso-login.html) as shown below:
+Use your Login.gov account to [login to BDME](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) as shown below:
 
 ```{image} ../../_static/images/bdme/BDME_login.png
 :alt: BDME login
