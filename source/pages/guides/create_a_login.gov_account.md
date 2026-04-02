@@ -7,13 +7,13 @@ Navigate to [https://secure.login.gov/](https://secure.login.gov/). Sign up to c
 
 > ***\*Note: If you have registered in the OSDR workspace console or submission portal using your Gmail account previously, you will need to register again at [https://secure.login.gov/](https://secure.login.gov/). Please make sure to use the same Gmail address so you can access your existing studies/files.***
 
-```{image} ../../_static/images/nasa_guest_acct/1_create_logingov_account.png
+```{image} ../../_static/images/login_gov_acct/1_create_logingov_account.png
 :alt: Login.gov registration page
 :width: 800px
 ```
 The next screen will confirm that a link was sent to your email to complete registration.  
 
-```{image} ../../_static/images/nasa_guest_acct/2_check_your_email.png
+```{image} ../../_static/images/login_gov_acct/2_check_your_email.png
 :alt: Email confirmation screen
 :width: 800px
 ```
@@ -22,7 +22,7 @@ The next screen will confirm that a link was sent to your email to complete regi
 
 Access your e-mail and search for the subject "Confirm your email". Click the blue box with the text "Confirm email address" or the hyperlink below it to set up your account password.
 
-```{image} ../../_static/images/nasa_guest_acct/3_confirm_email.png
+```{image} ../../_static/images/login_gov_acct/3_confirm_email.png
 :alt: Login.gov confirm email
 :width: 800px
 ```
@@ -31,14 +31,14 @@ Access your e-mail and search for the subject "Confirm your email". Click the bl
 
 Set up an account password. A password must be at least 12 characters long. 
 
-```{image} ../../_static/images/nasa_guest_acct/4_create_password.png
+```{image} ../../_static/images/login_gov_acct/4_create_password.png
 :alt: create password screen
 :width: 800px
 ```
 
 You will be asked to add at least one additional authentication method. Follow the instructions for whichever one you select.
 
-```{image} ../../_static/images/nasa_guest_acct/5_authentication.png
+```{image} ../../_static/images/login_gov_acct/5_authentication.png
 :alt: authentication method
 :width: 800px
 ```
@@ -52,7 +52,7 @@ Registration is complete. **This account is used to access both the OSDR Biologi
 Go to the OSDR [Submission Portal and Workspace](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) and click "Login through Login.gov"
   
 
-```{image} ../../_static/images/nasa_guest_acct/6_OSDR_login.png
+```{image} ../../_static/images/login_gov_acct/6_OSDR_login.png
 :alt: OSDR BDME login page
 :width: 800px
 ```
@@ -60,7 +60,7 @@ Go to the OSDR [Submission Portal and Workspace](https://science.nasa.gov/biolog
 ## Step 6: Select 'Submission Portal' or 'Workspace' 
  
 
-```{image} ../../_static/images/nasa_guest_acct/7_Portal_login.png
+```{image} ../../_static/images/login_gov_acct/7_Portal_login.png
 :alt: portal login page
 :width: 800px
 ```
@@ -70,7 +70,7 @@ Go to the OSDR [Submission Portal and Workspace](https://science.nasa.gov/biolog
 
 Once successfully logged in to BDME, you will see the "My Dashboard" landing page. You can now follow the instructions in the {doc}`submit_data_to_osdr` tutorial to submit your data to OSDR.  
 
-```{image} ../../_static/images/nasa_guest_acct/8_Dashboard.png
+```{image} ../../_static/images/login_gov_acct/8_Dashboard.png
 :alt: BDME Dashboard
 :width: 800px
 ```
@@ -79,7 +79,7 @@ Once successfully logged in to BDME, you will see the "My Dashboard" landing pag
 
 Once successfully logged in to the workspace, you will see the "Workspace" landing page. You are now able to follow the instructions in the {doc}`use_the_osdr_workspace` to create folders and upload your files to your workspace. During data submission, you will be able to specify any or all files in your workspace to be uploaded to your study(ies).  
 
-```{image} ../../_static/images/nasa_guest_acct/9_Workspace.png
+```{image} ../../_static/images/login_gov_acct/9_Workspace.png
 :alt: Workspace landing page
 :width: 800px
 ```
