@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.intersphinx', # To do: implement
     'sphinx_copybutton',
     'sphinx_design',
-    'hoverxref.extension',
 ]
 
 autosectionlabel_prefix_document = True 
