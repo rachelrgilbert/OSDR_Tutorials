@@ -70,7 +70,7 @@ Go to the OSDR [Submission Portal and Workspace](https://science.nasa.gov/biolog
 
 Once successfully logged in to BDME, you will see the "My Dashboard" landing page. You can now follow the instructions in the {doc}`submit_data_to_osdr` tutorial to submit your data to OSDR.  
 
-```{image} ../../_static/images/bdme/bdme-dashboard.png
+```{image} ../../_static/images/nasa_guest_acct/8_Dashboard.png
 :alt: BDME Dashboard
 :width: 800px
 ```
@@ -79,7 +79,7 @@ Once successfully logged in to BDME, you will see the "My Dashboard" landing pag
 
 Once successfully logged in to the workspace, you will see the "Workspace" landing page. You are now able to follow the instructions in the {doc}`use_the_osdr_workspace` to create folders and upload your files to your workspace. During data submission, you will be able to specify any or all files in your workspace to be uploaded to your study(ies).  
 
-```{image} ../../_static/images/osdr_workspace/osdr-workspace-landing-page.png
+```{image} ../../_static/images/nasa_guest_acct/9_Workspace.png
 :alt: Workspace landing page
 :width: 800px
 ```
