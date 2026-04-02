@@ -72,7 +72,7 @@ On the [OSDR Data Curation](https://github.com/nasa/OSDR_Data_Curation) GitHub r
 
 **5.2. Fill in assay level details**
 
-Once downloaded, open the template in excel. Use the examples provided under each column header as a guide to fill in the assay details in each column for each sample. Whenever available, use the controlled ontology terms to populate the values in each cell. If you can not fill out certain metadata columns in the template, leave it blank.
+Once downloaded, open the template in Excel. Use the examples provided under each column header as a guide to fill in the assay details in each column for each sample. Whenever available, use the controlled ontology terms to populate the values in each cell. If you can not fill out certain metadata columns in the template, leave it blank.
 
 ```{image} ../../_static/images/bdme/BDME_non-omics_metadata_template_assay_details.png
 :alt: Fill in non-omics assay level details
@@ -121,7 +121,7 @@ If you do not already have a Login.gov account, follow the instructions on the {
 
 Use your Login.gov account to [login to the OSDR Workspace](https://osdr.nasa.gov/bio/submission/). If you are new to the Workspace, review the {doc}`use_the_osdr_workspace` tutorial.
 
-```{image} ../../_static/images/bdme/BDME_OSDR_login.png
+```{image} ../../_static/images/bdme/BDME_OSDR_login_box.png
 :alt: OSDR BDME login page
 :width: 800px
 ```
@@ -148,7 +148,7 @@ You now have everything you need to create a new study in BDME, then input your 
 
 Use your Login.gov account to [login to BDME](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) and navigate to the Submission Portal:
 
-```{image} ../../_static/images/bdme/BDME_Portal_login.png
+```{image} ../../_static/images/bdme/BDME_Portal_login_box.png
 :alt: OSDR submission console
 :width: 800px
 ```
