@@ -146,10 +146,10 @@ You now have everything you need to create a new study in BDME, then input your 
 
 **10. Log in to BDME.**
 
-Use your Login.gov account to [login to BDME](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) as shown below:
+Use your Login.gov account to [login to BDME](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) and navigate to the Submission Portal:
 
-```{image} ../../_static/images/bdme/BDME_login.png
-:alt: BDME login
+```{image} ../../_static/images/nasa_guest_acct/7_Portal_login.png
+:alt: OSDR submission console
 :width: 800px
 ```
 
