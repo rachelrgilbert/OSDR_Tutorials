@@ -2,10 +2,10 @@
 
 ## Step 1: Sign Up  
 
-Navigate to https://secure.login.gov/. Sign up to create a new account with your email address.
+Navigate to [https://secure.login.gov/](https://secure.login.gov/). Sign up to create a new account with your email address.
   
 
-> ***\*Note: If you have registered in the OSDR workspace console or submission portal using your Gmail account previously, you will need to register again at Login.gov. Please make sure to use the same Gmail address so you can access your existing studies/files.***
+> ***\*Note: If you have registered in the OSDR workspace console or submission portal using your Gmail account previously, you will need to register again at [https://secure.login.gov/](https://secure.login.gov/). Please make sure to use the same Gmail address so you can access your existing studies/files.***
 
 ```{image} ../../_static/images/nasa_guest_acct/1_create_logingov_account.png
 :alt: Login.gov registration page
@@ -20,7 +20,7 @@ The next screen will confirm that a link was sent to your email to complete regi
 
 ## Step 2: Verify Email  
 
-Access your e-mail and search for the subject “Confirm your email”. Click the blue box with the text “Confirm email address” or the hyperlink below it to set up your account password.
+Access your e-mail and search for the subject "Confirm your email". Click the blue box with the text "Confirm email address" or the hyperlink below it to set up your account password.
 
 ```{image} ../../_static/images/nasa_guest_acct/3_confirm_email.png
 :alt: Login.gov confirm email
@@ -36,7 +36,7 @@ Set up an account password. A password must be at least 12 characters long.
 :width: 800px
 ```
 
-You will be asked to add at least one additional authentication method. Follow the instructions for whichever that you select.
+You will be asked to add at least one additional authentication method. Follow the instructions for whichever one you select.
 
 ```{image} ../../_static/images/nasa_guest_acct/5_authentication.png
 :alt: authentication method
@@ -49,7 +49,7 @@ Registration is complete. **This account is used to access both the OSDR Biologi
 
 ## Step 5: Log In  
 
-Go to the OSDR [Submission Portal and Workspace](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) and click “Login through Login.gov”
+Go to the OSDR [Submission Portal and Workspace](https://science.nasa.gov/biological-physical/data/osdr/osdr-submission-portal/) and click "Login through Login.gov"
   
 
 ```{image} ../../_static/images/nasa_guest_acct/6_OSDR_login.png
@@ -86,7 +86,7 @@ Once successfully logged in to the workspace, you will see the "Workspace" landi
 
 ## Troubleshooting Steps  
 
-- Please note the Login.gov accounts are not managed by the OSDR team. Account issues can be addressed by submitting a help ticket at https://login.gov/contact/. Login.gov can be reached 24/7 at (844) 875-6446.
+- Please note the Login.gov accounts are not managed by the OSDR team. Account issues can be addressed by submitting a help ticket at [https://login.gov/contact/](https://login.gov/contact/). Login.gov can be reached 24/7 at (844) 875-6446.
 
 - If you are still unable to successfully login to BDME or Workspace please reach out to [arc-dl-osdr-help@mail.nasa.gov](mailto:arc-dl-osdr-help@mail.nasa.gov)  
 
