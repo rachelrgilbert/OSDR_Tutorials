@@ -365,7 +365,7 @@ Navigate to the "Files" section of the study overview to associate your raw and 
 
 After completing all info for the Description, Samples, Assays, and Protocols sections of your study and associating all data files for each assay, click the "Save Metadata" button on the side panel of the study overview page to save all changes.
 
-```{image} ../../_static/images/bdme/BDME_study_save_metadata.png
+```{image} ../../_static/images/bdme/BDME_study_save_metadata.pn g
 :alt: Save all changes
 :width: 250px
 ```
