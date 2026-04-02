@@ -12,7 +12,7 @@ Welcome to the OSDR Tutorials documentation. This guide will help you navigate a
    pages/guides/navigate_an_osdr_study_page
    pages/guides/request_controlled_access_datasets
    pages/guides/use_the_osdr_public_aws_s3_bucket
-   pages/guides/create_a_nasa_guest_account
+   pages/guides/create_a_login.gov_account
    pages/guides/use_the_osdr_workspace
    pages/guides/submit_data_to_osdr
    pages/guides/biological_data_api
